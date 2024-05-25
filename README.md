@@ -11,13 +11,11 @@ This repository contains the assignments on data structures given by PW IOI.
 
 1. [Introduction](#introduction)
 2. [Assignment List](#assignment-list)
-3. [Submission Guidelines](#submission-guidelines)
-4. [Resources](#resources)
-5. [Contact](#contact)
+3. [Resources](#resources)
 
 ## Introduction
 
-Welcome to the Data Structures assignment repository. This repository contains all the assignments related to data structures that are part of the curriculum at PW IOI. The assignments are designed to enhance your understanding and proficiency in various data structures and algorithms.
+Welcome to the Data Structures assignment repository. This repository contains all the assignments related to data structures that are part of the curriculum at PW IOI.
 
 ## Assignment List
 
